@@ -20,4 +20,5 @@ subject is pulled from subject_<train/test>.txt and activities from y_<train/tes
 
 All the feature names are converted to lower case.
 
+The script generates the tidy set in the filename in the current directory provided in the R script.
 
